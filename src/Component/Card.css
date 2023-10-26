@@ -1,0 +1,49 @@
+.item_card {
+  margin: 10px;
+  height: 300px;
+  max-width: 240px;
+  overflow: hidden;
+  border-radius: 5px;
+  background-color: rgb(42, 42, 55);
+}
+.item_card img {
+  width: 100%;
+}
+.card_icons {
+  position: relative;
+  font-size: 1.75rem;
+  border-radius: 20px;
+}
+.icons-fc {
+  right: 0;
+   top: 30;
+  width: 35px;
+  height: 35px;
+  border: none;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  margin-top: -30px;
+  margin-right: 10px;
+  font-size: 1.25rem;
+  border-radius: 50px;
+  justify-content: center;
+}
+.cource-name {
+  bottom: 50;
+  height: 200px;
+  padding: 10px;
+  text-align: left;
+  position: relative;
+}
+.text_cource {
+  font-size: 15px;
+  color: rgb(252, 251, 251);
+  font-family: "Poppins", sans-serif;
+}
+.p-text {
+  font-size: 15px;
+  font-style:oblique;
+  color: rgb(228, 221, 221);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

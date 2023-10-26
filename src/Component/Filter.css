@@ -1,0 +1,23 @@
+.cards_filter{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: bold;
+    font-family: 'Poppins', sans-serif;
+}
+.cards_filter button{
+    padding: 8px;
+    flex-wrap: wrap;
+    border-radius: 4px;
+    margin: 10px;
+    background:rgb(86, 81, 81);
+    color: white;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 0;
+}
+.cards_filter button:hover{
+    background: black;
+    border: 1px solid white;
+}
